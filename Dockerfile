@@ -9,3 +9,5 @@ RUN apk add --no-cache openssh
 RUN apk add --no-cache rsync
 RUN apk add --no-cache openssl
 RUN apk add --no-cache sshpass
+RUN apk add --no-cache tar
+RUN apk add --no-cache zip

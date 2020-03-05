@@ -8,3 +8,5 @@
 * rsync
 * openssl
 * sshpass
+* tar
+* zip
